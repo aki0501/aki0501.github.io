@@ -5,6 +5,9 @@ import LinkedIn from "./images/linkedin.svg"
 export default function Navbar() {
     return (
     <nav className="nav">
+        <a href="/">
+            Aki Hasegawa-Johnson
+        </a>
         <ul>
             <li>
                 <a href="https://www.linkedin.com/in/aki-hasegawa-johnson-302787229/" target="_blank" className="nav_icon"><img src={LinkedIn} /></a>
