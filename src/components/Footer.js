@@ -1,7 +1,7 @@
 import "./Footer.css"
-import GitHub from "../../images/github.svg"
-import LinkedIn from "../../images/linkedin.svg"
-import Mail from "../../images/mail.svg"
+import GitHub from "../images/github.svg"
+import LinkedIn from "../images/linkedin.svg"
+import Mail from "../images/mail.svg"
 
 export default function Footer() {
     return (

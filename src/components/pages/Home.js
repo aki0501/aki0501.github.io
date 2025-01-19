@@ -1,9 +1,9 @@
-import Intro from "../Intro/Intro"
-import EPIC from "../EPIC/EPIC"
-import Highlight1 from "../Highlight1/highlight1"
-import Highlight2 from "../Highlight2/highlight2"
-import Highlight3 from "../Highlight3/highlight3"
-import Footer from "../Footer/Footer.js"
+import Intro from "../Intro"
+import EPIC from "../EPIC"
+import Highlight1 from "../highlight1"
+import Highlight2 from "../highlight2"
+import Highlight3 from "../highlight3"
+import Footer from "../Footer.js"
 
 import "../../App.css"
 

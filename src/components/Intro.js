@@ -1,4 +1,4 @@
-import Headshot from "../../images/Headshot.jpg"
+import Headshot from "../images/Headshot.jpg"
 import "./Intro.css"
 
 export default function Intro() {
