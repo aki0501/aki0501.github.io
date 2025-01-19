@@ -1,7 +1,6 @@
 import Navbar from "./Navigation"
-import Home from "./pages/Home"
-import Resume from "./pages/Resume"
-import Projects from "./pages/Projects"
+import Home from "./components/pages/Home"
+
 import "./App.css"
 
 function App() {
@@ -9,12 +8,6 @@ function App() {
   switch (window.location.pathname) {
     case "/":
       Component = Home
-      break
-    case "/projects":
-      Component = Projects
-      break
-    case "/resume":
-      Component = Resume
       break
     default:
       Component = Home

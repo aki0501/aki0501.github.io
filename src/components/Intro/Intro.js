@@ -1,9 +1,9 @@
-import Headshot from "../images/Headshot.jpg"
-import "../App.css"
+import Headshot from "../../images/Headshot.jpg"
+import "./Intro.css"
 
-export default function Home() {
+export default function Intro() {
     return (
-        <div className="container">
+        <div className="intro">
             <div className="welcome">
                 Welcome! Hi, I'm Aki.
                 <img className="headshot" src={Headshot}/>

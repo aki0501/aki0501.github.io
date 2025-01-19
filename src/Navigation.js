@@ -1,6 +1,7 @@
 import "./App.css"
 import GitHub from "./images/github.svg"
 import LinkedIn from "./images/linkedin.svg"
+import Mail from "./images/mail.svg"
 
 export default function Navbar() {
     return (
@@ -14,6 +15,9 @@ export default function Navbar() {
             </li>
             <li>
                 <a href="https://github.com/aki0501" target="_blank" className="nav_icon"><img src={GitHub} /></a>
+            </li>
+            <li>
+            <a href="mailto:aki0501@g.ucla.edu" target="_blank" className="nav_icon"><img src={Mail} /></a>
             </li>
         </ul>
     </nav>
