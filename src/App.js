@@ -1,5 +1,6 @@
-import Navbar from "./Navigation"
-import Home from "./components/pages/Home"
+import Navbar from "./components/Navigation"
+import Home from "./pages/Home"
+import Footer from "./components/Footer"
 
 import "./App.css"
 
@@ -19,6 +20,7 @@ function App() {
       <div>
         <Component />
       </div>
+      <Footer />
     </div>
   );
 }
