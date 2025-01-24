@@ -1,14 +1,17 @@
 .intro {
     margin: auto;
-    max-width: 830px;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    padding: 10rem;
+    flex-wrap: wrap;
+    padding: 5rem;
   }
 
 .headshot {
-    max-width: 250px;
+    max-width: 15rem;
     border-radius: 50%;
 }
 
+.text {
+  max-width: 22rem;
+}

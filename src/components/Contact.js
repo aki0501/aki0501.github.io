@@ -11,9 +11,6 @@ export default function Contact() {
         <li>
             <a href="https://github.com/aki0501" target="_blank" className="nav_icon"><img src={GitHub} /></a>
         </li>
-        <li>
-        <a href="mailto:aki0501@g.ucla.edu" target="_blank" className="nav_icon"><img src={Mail} /></a>
-        </li>
     </ul>
     )
 }

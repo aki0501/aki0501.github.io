@@ -5,8 +5,10 @@ export default function Intro() {
     return (
         <div className="intro">
             <div className="section">
-                <h1>Welcome!</h1>
-                <p>My name is Aki, thank you for visiting my website! I'm an aspiring audio engineer, music producer, and songwriter.</p>
+                <div className="text">
+                    <h1>Welcome!</h1>
+                    <p>My name is Aki, thank you for visiting my website! I'm an aspiring audio engineer, music producer, and songwriter.</p>
+                </div>
             </div>
 
             <div className="section">

@@ -2,9 +2,8 @@
     background-color: #cbcaca;
     margin: auto;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     text-align: center;
     align-items: center;
     padding: 5rem;
-    gap: 5rem;
 }
