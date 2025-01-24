@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.278a447b.css",
-    "main.js": "/static/js/main.cb9f31f4.js",
+    "main.css": "/static/css/main.ce782123.css",
+    "main.js": "/static/js/main.f421b113.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/HACK-3.jpg": "/static/media/HACK-3.48aa0967e76552fe19e7.jpg",
     "static/media/mit-2.jpg": "/static/media/mit-2.ea07a2532797158fe8f4.jpg",
     "static/media/cosmos-1.jpg": "/static/media/cosmos-1.8b98a4b34d5e5561edf1.jpg",
     "static/media/mit-1.jpg": "/static/media/mit-1.29a3ac9f918990d97be4.jpg",
-    "static/media/EPIC-1.jpeg": "/static/media/EPIC-1.18d155370d33019c90af.jpeg",
+    "static/media/HACK-4.jpg": "/static/media/HACK-4.c452b56363e59d5a2650.jpg",
     "static/media/Headshot.jpg": "/static/media/Headshot.6a803c638492d2c4578a.jpg",
     "static/media/EPIC-2.jpeg": "/static/media/EPIC-2.3d550ae7b91ffb0fef16.jpeg",
     "static/media/cosmos-2.jpg": "/static/media/cosmos-2.2399056503d95e412b78.jpg",
     "static/media/FTV-2.jpg": "/static/media/FTV-2.9fbabcf6a70aaf741468.jpg",
-    "static/media/FTV-1.jpg": "/static/media/FTV-1.9a2b5fe3e68942846e64.jpg",
     "static/media/github.svg": "/static/media/github.07b1f49a8f989b15b4fa7a230186e1ff.svg",
     "static/media/mail.svg": "/static/media/mail.f0b20730c59f0e2a4ab2ac5f3151d1e1.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.7cb521d725b0a589791c102504426cf1.svg",
     "index.html": "/index.html",
-    "main.278a447b.css.map": "/static/css/main.278a447b.css.map",
-    "main.cb9f31f4.js.map": "/static/js/main.cb9f31f4.js.map",
+    "main.ce782123.css.map": "/static/css/main.ce782123.css.map",
+    "main.f421b113.js.map": "/static/js/main.f421b113.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.278a447b.css",
-    "static/js/main.cb9f31f4.js"
+    "static/css/main.ce782123.css",
+    "static/js/main.f421b113.js"
   ]
 }
