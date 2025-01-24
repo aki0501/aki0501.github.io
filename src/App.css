@@ -4,19 +4,19 @@
 }
 
 .images {
-  max-width: 30%;
   display: flex; /* Use flexbox to align items horizontally */
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   gap: 3rem; /* Add space between the images */
 }
 
 .images img {
+  max-width: 300px;
   height: auto; /* Maintain aspect ratio */
   width: auto;
   object-fit: cover; /* Ensure the image is well-fitted */
 }
 
 .section {
-  max-width: 800px;
   padding: 3rem;
 }

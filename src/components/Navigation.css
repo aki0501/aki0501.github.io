@@ -7,7 +7,6 @@
   }
 
   .nav ul {
-    margin: 0;
     list-style: none;
     display: flex;
     gap: 2rem;
@@ -15,5 +14,4 @@
 
   .nav a {
     text-decoration: none;
-    display: flex;
   }
