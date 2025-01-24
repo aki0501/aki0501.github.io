@@ -3,7 +3,7 @@ import EPIC from "../components/EPIC"
 import AboutMe from "../components/AboutMe"
 import COSMOS from "../components/COSMOS"
 import FTV from "../components/FTV"
-import MoreInfo from "../components/MoreInfo"
+import Hackathons from "../components/Hackathons"
 
 import "../App.css"
 
@@ -15,7 +15,7 @@ export default function Home() {
             <COSMOS/>
             <FTV/>
             <EPIC/>
-            <MoreInfo/>
+            <Hackathons/>
         </>
     )
 }
