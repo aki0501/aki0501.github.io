@@ -1,4 +1,22 @@
 * {
   font-family: "Hiragino Sans GB W3";
-  color:rgb(40, 40, 40)
+  color:rgb(40, 40, 40);
+}
+
+.images {
+  max-width: 30%;
+  display: flex; /* Use flexbox to align items horizontally */
+  flex-direction: column;
+  gap: 3rem; /* Add space between the images */
+}
+
+.images img {
+  height: auto; /* Maintain aspect ratio */
+  width: auto;
+  object-fit: cover; /* Ensure the image is well-fitted */
+}
+
+.section {
+  max-width: 800px;
+  padding: 3rem;
 }

@@ -2,7 +2,9 @@
     background-color: #fff9e8;
     margin: auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     text-align: center;
-    padding: 20rem;
+    align-items: center;
+    padding: 5rem;
+    gap: 5rem;
 }

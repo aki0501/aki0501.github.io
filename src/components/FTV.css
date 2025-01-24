@@ -1,0 +1,12 @@
+.ftv {
+    /* background-color: #fff9e8; */
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    padding: 5rem;
+    gap: 5rem;
+}
+
+

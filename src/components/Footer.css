@@ -1,16 +1,13 @@
 .footer {
     background-color: rgb(143, 176, 146);
     margin: auto;
-    /* display: flex; */
-    /* flex-direction: column; */
-    text-align: center;
     padding: 5rem;
+    text-align: center;
 }
 
 .footer ul {
-    margin: 0;
     list-style: none;
     display: flex;
     gap: 2rem;
-    /* align-items: center; */
+    justify-content: center; /* Horizontally centers the container */
 }
