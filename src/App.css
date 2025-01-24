@@ -11,7 +11,8 @@
 }
 
 .images img {
-  max-width: 300px;
+  max-width: 400px;
+  max-height: 400px;
   height: auto; /* Maintain aspect ratio */
   width: auto;
   object-fit: cover; /* Ensure the image is well-fitted */

@@ -9,8 +9,8 @@ export default function Highlight3() {
                 </div>
 
                 <div className="section">
-                    <h3>UCLA Film & Television Summer Institute</h3>
-                    <p>A bunch of text. A bunch of text.A bunch of text.A bunch of text.A bunch of text.A bunch of text.A bunch of text.A bunch of text.A bunch of text.A bunch of text.A bunch of text.A bunch of text.</p>
+                    <h3>UCLA Film & Television Summer Institute (Summer 2024)</h3>
+                    <p>Participated in the UCLA Film & Television Summer Institute, where I was the editor for a student film. Completed several film classes toward my minor, including film editing and cinematography, where I learned Adobe Premiere Pro, After Effects, and DaVinci Resolve. </p>
                 </div>
         </div>
     )

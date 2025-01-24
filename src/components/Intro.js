@@ -6,7 +6,7 @@ export default function Intro() {
         <div className="intro">
             <div className="section">
                 <h1>Welcome!</h1>
-                <p>Hi, I'm Aki! thanks for visiting! website currently in progress...</p>
+                <p>My name is Aki, thank you for visiting my website! I'm an aspiring audio engineer, music producer, and songwriter.</p>
             </div>
 
             <div className="section">
