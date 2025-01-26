@@ -10,7 +10,7 @@ export default function Highlight1() {
 
             <section class="section">
             <h3>Experience</h3>
-            <p>I have experience working with several different research labs on campus, including <a href="https://remap.ucla.edu/" target="_blank">REMAP</a> (2024-Present), <a href="https://elfin.igpp.ucla.edu/" target="_blank">ELFIN</a> (2023-2024), and <a href="http://vision.ucla.edu/" target="_blank">UCLA Vision Lab</a> (2022-2023). I have also enjoyed being a learning assistant with the UCLA <a href="https://ceils.ucla.edu/learning-communities-trainings/learning-assistant-program/prospective-learning-assistant/" target="_blank">Learning Assistant Program</a>. A few more of my experiences within the community are listed on the page below.</p>
+            <p>I have experience working with several research labs on campus, including <a href="https://remap.ucla.edu/" target="_blank">REMAP</a> (2024-Present), <a href="https://elfin.igpp.ucla.edu/" target="_blank">ELFIN</a> (2023-2024), and <a href="http://vision.ucla.edu/" target="_blank">UCLA Vision Lab</a> (2022-2023). I have also enjoyed being a learning assistant with the UCLA <a href="https://ceils.ucla.edu/learning-communities-trainings/learning-assistant-program/prospective-learning-assistant/" target="_blank">Learning Assistant Program</a>. A few more of my experiences within the community are listed on the page below.</p>
 
             </section>
 

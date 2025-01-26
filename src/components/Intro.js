@@ -6,8 +6,9 @@ export default function Intro() {
         <div className="intro">
             <div className="section">
                 <div className="text">
+                    <meta name="viewport" content="width=device-width, initial-scale=1"/>
                     <h1>Welcome!</h1>
-                    <p>My name is Aki, thank you for visiting my website! I'm an aspiring audio engineer, music producer, and songwriter.</p>
+                    <p>My name is Aki, thank you for visiting my website!</p>
                 </div>
             </div>
 
